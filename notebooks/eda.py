@@ -18,8 +18,7 @@ print("DataFrame Shape:", df.shape)
 print(df.head())
 df.info()
 
-# 4. Statistical Summaries
-# Numeric columns
+# 4. Statistical Summariess
 print("\n--- Numeric Summary ---")
 print(df.describe())
 
